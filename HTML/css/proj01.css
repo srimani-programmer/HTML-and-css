@@ -1,0 +1,22 @@
+.outter-box {
+    width: 680px;
+    height: 500px;
+    background-color: gray;
+}
+
+.inner-box {
+    width: 450px;
+    height: 300px;
+    background-color: yellow;
+    margin-left: 15px;
+}
+
+.inner-text {
+    color: tomato;
+    margin-left: 5px;
+}
+
+.outter-text {
+    margin-left: 15px;
+    color: tomato;
+}
