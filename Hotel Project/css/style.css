@@ -1,0 +1,69 @@
+html {
+    height: 100%;
+}
+
+.container {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: #2f3035;
+  background-image: url("../images/background-adare-restaurant.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header {
+  width: 1024px;
+  height: 118px;
+  text-align: center;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.44);
+  text-align: center;
+  padding-top: 13px;
+  width: 1024px;
+  height: 30px;
+}
+
+.nav-id {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main {
+  width: 1024px;
+  height: 250px;
+  color: white;
+  text-align: center;
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.44);
+  width: 1024px;
+  height: 75px;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding-top: auto;
+}
+
+.title-text {
+  font-size: 48px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.title-content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 21px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
