@@ -1,0 +1,23 @@
+.main-header {
+  color: blueviolet;
+  font-size: 24px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: cyan;
+  line-height: 45px;
+  text-align: center;
+  width: 100%;
+}
+
+.main-section {
+  color: gold;
+  font-size: 21px;
+  background-color: deepskyblue;
+  line-height: 30px;
+  text-align: center;
+}
+
+.main-footer {
+  color: indigo;
+  font-size: 16px;
+  text-align: center;
+}
