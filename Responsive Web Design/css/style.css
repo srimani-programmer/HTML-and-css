@@ -1,0 +1,67 @@
+.header-container {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: tomato;
+  height: 50px;
+}
+
+.header-container h1 {
+  color: wheat;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.content-quote {
+  width: 59%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #5da3fa;
+  color: aliceblue;
+  border-left: 7px solid salmon;
+}
+
+.content-quote blockquote {
+  text-align: center;
+  font-size: 21px;
+  padding-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.news-information {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-column-gap: 2%;
+  grid-row-gap: 10px;
+  margin-top: 10px;
+}
+
+.news-container {
+  margin: 25px;
+  min-height: 350px;
+  border: 2px dashed gray;
+}
+
+.article-image {
+  background-image: url("../public/images/bird.jpeg");
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.article-image img {
+  object-fit: cover;
+  width: auto;
+}
+.news-container p {
+  padding: 10px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.news-container h5 {
+  text-align: center;
+  font-size: 21px;
+  color: blueviolet;
+}
